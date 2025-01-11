@@ -1,0 +1,3 @@
+My SQL queries for Project by CodeBasic, this project is in Sales domain 
+
+select * from fact_sales 
